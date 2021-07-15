@@ -1,5 +1,5 @@
-class AccoutEntity {
+class AccountEntity {
   final String token;
 
-  AccoutEntity(this.token);
+  AccountEntity(this.token);
 }
